@@ -1,0 +1,9 @@
+{
+  "name": "directional",
+  "version": "0.0.1",
+  "description": "directional motion component/system",
+  "keywords": ["dir","velocity","motion","component","system"],
+  "author": "stagas",
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
