@@ -5,5 +5,8 @@
   "keywords": ["dir","velocity","motion","component","system"],
   "author": "stagas",
   "license": "MIT",
+  "dependencies": {
+    "entity/vector": "*"
+  },
   "scripts": ["index.js"]
 }
